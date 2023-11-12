@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #ffd59d;
+    overflow-y: hidden;
+    overflow-x: hidden;
+
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.d-block {
+    position: absolute;
+    bottom: -40px;
+
+}
+
+
+
